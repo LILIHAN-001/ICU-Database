@@ -1,0 +1,24 @@
+treatment：
+- rrt/CRRT
+- MV
+- 
+
+
+
+medication：
+- antibiotic
+- vaso
+- sedation and analgesia
+- diuretic
+
+
+
+clinical_characteristics：
+
+
+
+score:
+
+
+demo：
+- height, weight

@@ -1,0 +1,21 @@
+treatment：
+- rrt/CRRT
+- MV
+- 
+
+
+
+medication：
+- antibiotic
+- vaso
+
+
+
+clinical_characteristics：
+
+
+
+
+
+demo：
+- height, weight

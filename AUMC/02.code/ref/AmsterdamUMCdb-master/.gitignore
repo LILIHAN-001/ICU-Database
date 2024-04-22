@@ -1,0 +1,17 @@
+**/.idea
+**/config.ini
+**/.ipynb_checkpoints
+**/__pycache__
+**/*.csv
+**/*.zip
+**/*.7z
+**/*.bak
+**/*.ps1
+**/*.parquet
+**/*.json
+**/dask-worker-space
+/amsterdamumcdb.egg-info/
+**/build/
+**/dist/
+**/*venv/
+
